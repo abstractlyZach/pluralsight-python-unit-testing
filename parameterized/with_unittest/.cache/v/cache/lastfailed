@@ -1,9 +1,0 @@
-{
-  "test_tennis.py::TestTennis::()::test_even_scores_early_game": true,
-  "test_tennis.py::TestTennis::test_even_scores_2_2": true,
-  "test_tennis.py::TestTennis::test_even_scores_early_game": true,
-  "test_tennis.py::TestTennis::test_even_scores_fifteen-all_(1, 1)": true,
-  "test_tennis.py::TestTennis::test_uneven_scores_2_3": true,
-  "test_tennis.py::TestTennis::test_uneven_scores_early_game": true,
-  "test_tennis.py::TestTennis::test_uneven_scores_fifteen-love_(1, 0)": true
-}

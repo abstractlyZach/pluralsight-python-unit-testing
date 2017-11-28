@@ -1,2 +1,6 @@
 .idea
 __pycache__
+.cache
+.DS_Store
+parameterized/with_unittest/htmlcov/
+parameterized/with_unittest/.coverage
